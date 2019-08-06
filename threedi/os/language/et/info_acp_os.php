@@ -27,10 +27,10 @@ $lang = array_merge($lang, [
 	'ACP_OS'						=> 'Seaded',
 
 	// Controller
-	'ACP_OS_CHANGE_SAVED'			=> '<strong>Online Since</strong> BSD manually changed and saved.',
+	'ACP_OS_CHANGE_SAVED'			=> '<strong>Aktiivne alates</strong> BSD muudeti ja salvestati käsitsi.',
 
 	'ACP_OS_SETNOW_CONFIRM'			=> 'Kas olete kindel, et soovite praegu foorumi alguskuupäeva määrata?',
-	'ACP_OS_SETNOW'					=> 'The Board’s Start Date has been sat at the present time.',
+	'ACP_OS_SETNOW'					=> 'Foorumi alguskuupäev on praegune aeg.',
 
 	'ACP_OS_RESTORE_CONFIRM'		=> 'Kas olete kindel, et soovite taastada foorumi loomise algkuupäeva?',
 	'ACP_OS_RESTORED'				=> 'Foorumi algne alguskuupäev on taastatud.',
@@ -52,9 +52,9 @@ $lang = array_merge($lang, [
 	'ACP_OS_NOW_RESET_EXPLAIN'		=> '<em>Teie foorumi uus algus</em>',
 
 	// Logs
-	'LOG_ACP_OS_BSD_CHANGED'		=> '<strong>Online Since</strong> BSD manually changed.',
-	'LOG_ACP_OS_BSD_SETNOW'			=> '<strong>Online Since</strong> BSD updated to time().',
-	'LOG_ACP_OS_BSD_RESTORED'		=> '<strong>Online Since</strong> original BSD restored.',
+	'LOG_ACP_OS_BSD_CHANGED'		=> '<strong>Foorum aktiivne alates</strong> BSD käsitsi muudetud.',
+	'LOG_ACP_OS_BSD_SETNOW'			=> '<strong>Foorum aktiivne alates</strong> BSD on ajakohastatud().',
+	'LOG_ACP_OS_BSD_RESTORED'		=> '<strong>Foorum aktiivne alates</strong> algne BSD taastatud.',
 
 	// Errors
 	'ACP_OS_UNIX_INVALID'			=> 'Palun täitke korrektselt Unixi (epohhi) ajatempli väli.',
