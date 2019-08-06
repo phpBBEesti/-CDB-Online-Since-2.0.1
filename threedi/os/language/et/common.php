@@ -25,7 +25,7 @@ if (empty($lang) || !is_array($lang))
 $lang = array_merge($lang, [
 	'ACL_CAT_3DI'	=> '3Di',
 
-	'OS_START'		=> 'Foorumi alustamise kuupäev',
+	'OS_START'		=> 'Foorumiga alustati',
 	'OS_ELAPSED'	=> 'Foorum töötanud',
 	'OS_TITLE'		=> 'Aktiivne alates',
 	'OS_AT'			=> 'kell',
