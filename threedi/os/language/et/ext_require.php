@@ -6,7 +6,7 @@
  * @copyright (c) 2005 - 2019, 3Di, https://www.phpbbstudio.com
  * @license GNU General Public License, version 2 (GPL-2.0)
  *
- * Estonian translation by phpBBestonia.eu <https://www.phpbbestonia.eu>
+ * Estonian translation by phpBBestonia.eu <https://www.phpbbestonia.eu> [Exabot @ 2019]
  */
 
 /**
@@ -27,5 +27,5 @@ if (empty($lang) || !is_array($lang))
  * ’ » “ ” …
  */
 $lang = array_merge($lang, [
-	'ERROR_PHPBB_VERSION'	=> 'Minimum phpBB version required is %1$s but less than %2$s',
+	'ERROR_PHPBB_VERSION'	=> 'Minimaalne nõutav phpBB versioon on %1$s kuid vähem kui %2$s',
 ]);
