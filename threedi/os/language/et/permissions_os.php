@@ -6,7 +6,7 @@
  * @copyright (c) 2005 - 2019, 3Di, https://www.phpbbstudio.com
  * @license GNU General Public License, version 2 (GPL-2.0)
  *
- * Estonian translation by phpBBestonia.eu <https://www.phpbbestonia.eu>
+ * Estonian translation by phpBBestonia.eu <https://www.phpbbestonia.eu> [Exabot @ 2019]
  */
 
 if (!defined('IN_PHPBB'))
