@@ -52,9 +52,9 @@ $lang = array_merge($lang, [
 	'ACP_OS_NOW_RESET_EXPLAIN'		=> '<em>Teie foorumi uus algus</em>',
 
 	// Logs
-	'LOG_ACP_OS_BSD_CHANGED'		=> '<strong>Foorum aktiivne alates</strong> BSD käsitsi muudetud.',
-	'LOG_ACP_OS_BSD_SETNOW'			=> '<strong>Foorum aktiivne alates</strong> BSD on ajakohastatud().',
-	'LOG_ACP_OS_BSD_RESTORED'		=> '<strong>Foorum aktiivne alates</strong> algne BSD taastatud.',
+	'LOG_ACP_OS_BSD_CHANGED'		=> '<strong>Foorumi alustamise kuupäev</strong> BSD käsitsi muudetud.',
+	'LOG_ACP_OS_BSD_SETNOW'			=> '<strong>Foorumi alustamise kuupäev</strong> BSD on ajakohastatud().',
+	'LOG_ACP_OS_BSD_RESTORED'		=> '<strong>Foorumi alustamise kuupäev</strong> algne BSD taastatud.',
 
 	// Errors
 	'ACP_OS_UNIX_INVALID'			=> 'Palun täitke korrektselt Unixi (epohhi) ajatempli väli.',
